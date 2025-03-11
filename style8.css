@@ -23083,5 +23083,10 @@ body.active-light-mode .slider-area.bg-transparent .inner button.btn-default.btn
   pointer-events: none;
   opacity: 0.5;
 }
+.alignment-center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
 /*# sourceMappingURL=style.css.map */
